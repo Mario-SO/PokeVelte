@@ -1,3 +1,3 @@
 # PokeVelte
 
-A simple PokeApi project using Svelte + Tailwind
+A simple PokeApi project using Svelte + Tailwind + Typescript
