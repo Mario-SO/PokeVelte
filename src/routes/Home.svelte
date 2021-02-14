@@ -6,7 +6,7 @@
 
   let pokemons = []
   let offset = 0
-  let amountToLoad = 18 
+  let amountToLoad = 18
 
   interface Data {
     results: []
@@ -27,7 +27,6 @@
   function handleMoreClick() {
     offset += amountToLoad
   }
-
 </script>
 
 <main class="flex h-screen">
